@@ -35,3 +35,9 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+1
+1
+
+1
+1
+1

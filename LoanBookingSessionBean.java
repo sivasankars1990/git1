@@ -41,3 +41,7 @@ printPattern(n);
 1
 1
 1
+fgf
+ghth
+hg
+fhg
